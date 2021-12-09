@@ -8,17 +8,10 @@ Template: `* [Name](Github Link) - Description. [Download Link](Website to downl
 
 -------
 
-# Table of Contents.
+# Table of Contents
 
-- [Java](#user-content-browser-based)
-  - [Boardgame](#user-content-boardgame)
-  - [Arcade](#user-content-arcade)
-- [Bedrock](#user-content-native)
-  - [Action](#user-content-action-1)
-  - [Arcade](#user-content-arcade-1)
-- [other](#user-content-mobile-games)
-  - [Android](#user-content-android)
-  - [IOS](#user-content-ios)
+- [Java](#user-content-java)
+  - [1.12.2](#user-content-1.12.2)
 
 -------
 
@@ -26,4 +19,4 @@ Template: `* [Name](Github Link) - Description. [Download Link](Website to downl
 
 ## 1.12.2
 
-* [3D Hartwing Chess Set](https://github.com/juliangarnier/3D-Hartwig-chess-set) - 3D chess game done in HTML/CSS/JS. [Play it now!](http://codepen.io/juliangarnier/full/BsIih)
+* [Name](Github Link) - Description. [Download Link](Website to download from)
