@@ -17,3 +17,7 @@ Template: `* [Name](Github/Website Link) (Version) - Description. [Download/Comp
 * [Resilience-Client](https://github.com/MinecraftModdedClients/Resilience-Client-Source) (1.6.1) - Minecraft Hacked Client Resilience. An old client idk why you would download it. (Compile Yourself)
 * [Xeno](https://github.com/XenoClientDevelopment/Xeno-Client) (1.12.2) - New. Weak in PVP modules but appearntly has good render. [Download](https://github.com/XenoClientDevelopment/Xeno-Client/releases/tag/1.2)
 * [Bedtrap](https://github.com/PlutoSolutions/bedtrap-rip) (1.18.1) - Shit hack that got cracked. [Download but check README for directions.](https://github.com/PlutoSolutions/bedtrap-rip)
+* [Seppuku](https://seppuku.pw/) (1.12.2) - Description. [Download](https://github.com/seppukudevelopment/seppuku/releases)
+* [Salhack](https://github.com/ionar2/spidermod) (1.12.2) - Salhack is a Forge mod made by ionar. [Download](https://github.com/ionar2/spidermod/releases/tag/2.05)
+* [MatHax](https://mathaxclient.xyz) (1.17.1-1.18.1) - Description. [Download](https://mathaxclient.xyz/Download)
+* [Inertia](https://inertiaclient.com) (1.16.5, 1.15.2, 1.14.4, 1.13.2, 1.12.2) - Description. [Download](https://inertiaclient.com/Download.php)
