@@ -8,12 +8,6 @@ Template: `* [Name](Github Link) (Version) - Description. [Download Link](Websit
 
 -------
 
-# Table of Contents
-
-- [Java](#user-content-java)
-
--------
-
 # Java
 
 * [konas](https://github.com/trapaholics/konas) (1.12.2) - I had a stroke reading the README. (Compile Yourself) (RAT)
