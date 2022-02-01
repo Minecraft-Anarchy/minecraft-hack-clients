@@ -3,7 +3,7 @@ A collection of Minecraft Hack Clients. Some open source some not.
 
 ## Some Info
 * If you have a suggestion make an issue and tell me the **Name, Github/Website Link, Version, Description, Download Link/Compile Yourself, and if its Ratted**.
-* **Note:** I'm not responsible if these are ratted. I usually check the issues to see if someone spotted a token grabboer or something.
+* **Note:** I'm not responsible if these are ratted. I usually check the issues to see if someone spotted a token grabber or something.
 * If you spot something wrong make an issue.
 * When I have more hack clients in the list, I'll have the popular clients on top. Since most of them are shit clients.
 
