@@ -16,4 +16,4 @@ Template: `* [Name](Github Link) (Version) - Description. [Download Link](Websit
 
 # Java
 
-* [konas](https://github.com/trapaholics/konas) (Version) - I had a stroke reading the README. (Compile Yourself) (RAT)
+* [konas](https://github.com/trapaholics/konas) (1.12.2) - I had a stroke reading the README. (Compile Yourself) (RAT)
