@@ -11,12 +11,9 @@ Template: `* [Name](Github Link) - Description. [Download Link](Website to downl
 # Table of Contents
 
 - [Java](#user-content-java)
-  - [1.12.2](#user-content-1.12.2)
 
 -------
 
 # Java
-
-## 1.12.2
 
 * [Name](Github Link) - Description. [Download Link](Website to download from)
