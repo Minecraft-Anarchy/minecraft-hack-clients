@@ -24,7 +24,7 @@ Template: `* [Name](Github/Website Link) (Version) - Description. [Download/Comp
 * [JexClient](https://github.com/DustinRepo/JexClient) (Multiple Versions) - A Minecraft Utility Mod aimed for Anarchy. [Download](https://github.com/DustinRepo/JexClient/releases/tag/0.6.0)
 * [FrostBurn](https://github.com/evaan/FrostBurn) (1.17.1
 ) - A 1.17 utility mod oriented towards anarchy servers. [Download](https://github.com/evaan/FrostBurn/releases)
-* [KAMI Blue](Github/Website Link) (1.12.2) - Description. [Download](https://kamiblue.org/download)
+* [KAMI Blue](https://kamiblue.org/) (1.12.2) - Description. [Download](https://kamiblue.org/download)
 * [Impact](https://impactclient.net) (Multiple Versions) - The Impact client is an advanced utility mod for Minecraft, it is packaged with Baritone and includes a large number of useful mods. [Download](https://impactclient.net/#download)
 * [Ares](https://aresclient.org/) (Multiple Versions) - Description. [Download](https://aresclient.org/download)
 * [Future](https://www.futureclient.net) (Version) - Description. [Download](Link)
