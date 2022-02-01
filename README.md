@@ -11,3 +11,4 @@ Template: `* [Name](Github Link) (Version) - Description. [Download Link](Websit
 # Java
 
 * [konas](https://github.com/trapaholics/konas) (1.12.2) - I had a stroke reading the README. (Compile Yourself) (RAT)
+* [Resilience-Client](https://github.com/MinecraftModdedClients/Resilience-Client-Source) (1.6.1) - Minecraft Hacked Client Resilience. An old client idk why you would download it. (Compile Yourself)
