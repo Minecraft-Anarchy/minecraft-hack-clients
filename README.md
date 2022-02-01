@@ -1,7 +1,7 @@
 # Minecraft Hack Clients
-A collection of Minecraft Hack Clients
+A collection of Minecraft Hack Clients. Some opensource some not.
 
-If you have a suggestion make an issue and tell me the **Name, Github Link, Description, Website to download from, Platform, Version, and if its Ratted**.
+If you have a suggestion make an issue and tell me the **Name, Github Link, Description, Download, Platform, Version, and if its Ratted**.
 
 
 Template: `* [Name](Github Link) - Description. [Download Link](Website to download from)`
@@ -16,4 +16,4 @@ Template: `* [Name](Github Link) - Description. [Download Link](Website to downl
 
 # Java
 
-* [Name](Github Link) - Description. [Download Link](Website to download from)
+* [konas](https://github.com/trapaholics/konas) - I had a stroke reading the README. (Compile Yourself) (RAT)
