@@ -20,7 +20,7 @@ Template: `* [Name](Github/Website Link) (Version) - Description. [Download/Comp
 * [Seppuku](https://seppuku.pw/) (1.12.2) - Description. [Download](https://github.com/seppukudevelopment/seppuku/releases)
 * [Salhack](https://github.com/ionar2/spidermod) (1.12.2) - Salhack is a Forge mod made by ionar. [Download](https://github.com/ionar2/spidermod/releases/tag/2.05)
 * [MatHax](https://mathaxclient.xyz) (1.17.1-1.18.1) - Description. [Download](https://mathaxclient.xyz/Download)
-* [Inertia](https://inertiaclient.com) (1.16.5, 1.15.2, 1.14.4, 1.13.2, 1.12.2) - Description. [Download](https://inertiaclient.com/Download.php)
+* [Inertia](https://inertiaclient.com) (Multiple Versions) - Description. [Download](https://inertiaclient.com/Download.php)
 * [JexClient](https://github.com/DustinRepo/JexClient) (Multiple Versions) - A Minecraft Utility Mod aimed for Anarchy. [Download](https://github.com/DustinRepo/JexClient/releases/tag/0.6.0)
 * [FrostBurn](https://github.com/evaan/FrostBurn) (1.17.1
 ) - A 1.17 utility mod oriented towards anarchy servers. [Download](https://github.com/evaan/FrostBurn/releases)
