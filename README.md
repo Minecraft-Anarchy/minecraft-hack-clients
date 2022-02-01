@@ -4,7 +4,7 @@ A collection of Minecraft Hack Clients. Some opensource some not.
 If you have a suggestion make an issue and tell me the **Name, Github Link, Description, Download, Platform, Version, and if its Ratted**.
 
 
-Template: `* [Name](Github Link) - Description. [Download Link](Website to download from)`
+Template: `* [Name](Github Link) - Description. [Download Link](Website to download from) (RAT or NOT)`
 
 -------
 
