@@ -28,3 +28,7 @@ Template: `* [Name](Github/Website Link) (Version) - Description. [Download/Comp
 * [Impact](https://impactclient.net) (Multiple Versions) - The Impact client is an advanced utility mod for Minecraft, it is packaged with Baritone and includes a large number of useful mods. [Download](https://impactclient.net/#download)
 * [Ares](https://aresclient.org/) (Multiple Versions) - Description. [Download](https://aresclient.org/download)
 * [Future](https://www.futureclient.net) (Version) - Description. [Download](Link)
+* [bhack](https://github.com/453452hw/bhack) (1.18.1) - Description. [Download](https://github.com/453452hw/bhack/releases)
+* [KAMI](https://github.com/zeroeightysix/KAMI) (1.16.5) - Description. [Download](https://github.com/zeroeightysix/KAMI/releases)
+* [CXClient](https://github.com/pixelcmtd/CXClient) (1.8.8) - Description. [Download](https://github.com/pixelcmtd/CXClient/releases)
+* [Cosmos](https://github.com/momentumdevelopment/cosmos) (1.12.2) - Description. [Download](https://github.com/momentumdevelopment/cosmos/releases)
