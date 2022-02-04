@@ -36,7 +36,7 @@ Template:
 * [KAMI](https://github.com/zeroeightysix/KAMI) (1.16.5) - Description. [Download](https://github.com/zeroeightysix/KAMI/releases)
 * [CXClient](https://github.com/pixelcmtd/CXClient) (1.8.8) - Description. [Download](https://github.com/pixelcmtd/CXClient/releases)
 * [Cosmos](https://github.com/momentumdevelopment/cosmos) (1.12.2) - Description. [Download](https://github.com/momentumdevelopment/cosmos/releases)
-* [Onigiri](https://github.com/Nodoka4318/OnigiriClient) (Version) - Konichwhat are they saying? [Download/Compile Yourself](Link)
+* [Onigiri](https://github.com/Nodoka4318/OnigiriClient) (Version) - Japanese Client(?) [Download/Compile Yourself](Link)
 * [gamesense-plus-2](https://github.com/Droid-D3V/gamesense-plus-2) (1.12.2) - Minecraft 1.12.2 Utility Mod for Anarchy and Crystal PvP. [Compile Yourself]
 * [Cake-client](https://github.com/GandelXIV/Cake-client) (1.8) - A minecraft 1.8 hacked client. [Compile Yourself]
 * [AquaticClient](https://github.com/WomasL/AquaticClient) (1.8.8) - Description. [Compile Yourself]
