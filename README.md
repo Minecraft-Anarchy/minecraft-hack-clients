@@ -24,7 +24,7 @@ Template:
 | Impact | **Mulitple Version** | [Website](https://impactclient.net) | [Download](https://impactclient.net/#download) |
 | KAMI Blue | **1.12.2** | [Website](https://kamiblue.org) | [Download](https://kamiblue.org/download) |
 | Salhack | **1.12.2** | [Website](https://github.com/ionar2/spidermod) | [Download](https://github.com/ionar2/spidermod/releases/tag/2.05) |
-| Wurst | **Version** | [Website](https://www.wurstclient.net) | [Download](https://www.wurstclient.net/download/) |
+| Wurst | **Multiple Versions** | [Website](https://www.wurstclient.net) | [Download](https://www.wurstclient.net/download/) |
 | RusherHack | **1.12.2** | [Website](https://rusherhack.org) | [Pay](https://shop.rusherhack.org/45975011479/checkouts/b09bce420927380dc7d7cc1ba272fa85?channel=buy_button) |
 | Inertia | **Multiple Versions** | [Website](https://inertiaclient.com) | [Download](https://inertiaclient.com/Download.php) |
 | Pyro | **1.12.2** | [Website](https://pyroclient.com) | [Pay](https://pyroclient.com/register) |
@@ -36,7 +36,7 @@ Template:
 | Bedtrap | **1.18.1** | [Github](https://github.com/PlutoSolutions/bedtrap-rip) | [Download but check README](https://github.com/PlutoSolutions/bedtrap-rip) |
 | Seppuku | **1.12.2** | [Website](https://seppuku.pw) | [Download](https://github.com/seppukudevelopment/seppuku/releases) |
 | MatHax | **1.17.1-1.18.1** | [Website](https://mathaxclient.xyz) | [Download](https://mathaxclient.xyz/Download) |
-| JexClient | **Version** | [Github](https://github.com/DustinRepo/JexClient) | [Download](https://github.com/DustinRepo/JexClient/releases/tag/0.6.0) |
+| JexClient | **Multiple Versions** | [Github](https://github.com/DustinRepo/JexClient) | [Download](https://github.com/DustinRepo/JexClient/releases/tag/0.6.0) |
 | FrostBurn | **1.17.1** | [Github](https://github.com/evaan/FrostBurn) | [Download](https://github.com/evaan/FrostBurn/releases) |
 | Ares | **Multiple Versions** | [Website](https://aresclient.org) | [Download](https://aresclient.org/download) |
 | bhack | **1.18.1** | [Github](https://github.com/453452hw/bhack) | [Download](https://github.com/453452hw/bhack/releases) |
