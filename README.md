@@ -43,7 +43,6 @@ Template:
 | KAMI | **1.16.5** | [Github](https://github.com/zeroeightysix/KAMI) | [Download](https://github.com/zeroeightysix/KAMI/releases) |
 | CXClient | **1.8.8** | [Github](https://github.com/pixelcmtd/CXClient) | [Download](https://github.com/pixelcmtd/CXClient/releases) |
 | Cosmos | **1.12.2** | [Github](https://github.com/momentumdevelopment/cosmos) | [Download](https://github.com/momentumdevelopment/cosmos/releases) |
-| Onigiri | Version | Links | Compile Yourself |
 | Onigiri | Version | [Github](https://github.com/Nodoka4318/OnigiriClient) | Compile Yourself |
 | gamesense-plus-2 | **1.12.2** | [Github](https://github.com/Droid-D3V/gamesense-plus-2) | Compile Yourself |
 | Cake-client | **1.8** | [Github](https://github.com/GandelXIV/Cake-client) | Compile Yourself |
