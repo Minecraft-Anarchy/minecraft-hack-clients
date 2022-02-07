@@ -51,6 +51,6 @@ Template:
 * [Hache](https://github.com/halalfishcoding/Hache) (1.12.2) - A hacked Minecraft client based off of GishCode.. [Compile Yourself]
 * [Ananta](https://github.com/RitomG69/Ananta) (1.12.2) - Description. [Download](https://github.com/RitomG69/Ananta/releases)
 * [Infinity](https://github.com/SprayDown/Infinity) (1.17/1.17.1) - Description. [Download](https://github.com/SprayDown/Infinity/releases)
-* [Steak-Hax](https://github.com/TDC0471/Steak-Hax) (Version) - A Minecraft Hacked Client Made by TDC. [Download](https://github.com/TDC0471/Steak-Hax/releases)
+* [Steak-Hax](https://github.com/TDC0471/Steak-Hax) (1.8) - A Minecraft Hacked Client Made by TDC. [Download](https://github.com/TDC0471/Steak-Hax/releases)
 * [Mercury](https://github.com/minecraft-clients/Mercury-Client-BUILDABLE_SRC) (1.12.2) - Description. [Compile Yourself]
 * [Yasashii-Client](https://github.com/TerrificTable/Yasashii-Rewrite) (1.12.2) - Description. [Download](https://github.com/TerrificTable/Yasashii-Rewrite/releases)
