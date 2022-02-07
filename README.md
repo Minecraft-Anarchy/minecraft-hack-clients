@@ -18,7 +18,7 @@ Template:
 
 # Java
 
-* [Future](https://www.futureclient.net) (Version) - Description. [Download](Link)
+* [Future](https://www.futureclient.net) (Version) - Description. [Pay](Link)
 * [Impact](https://impactclient.net) (Multiple Versions) - The Impact client is an advanced utility mod for Minecraft, it is packaged with Baritone and includes a large number of useful mods. [Download](https://impactclient.net/#download)
 * [KAMI Blue](https://kamiblue.org/) (1.12.2) - Description. [Download](https://kamiblue.org/download)
 * [Salhack](https://github.com/ionar2/spidermod) (1.12.2) - Salhack is a Forge mod made by ionar. [Download](https://github.com/ionar2/spidermod/releases/tag/2.05)
