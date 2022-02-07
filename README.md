@@ -8,6 +8,7 @@ I added a license you should be able to contribute.
 * If you have a suggestion make an issue and tell me the **Name, Github/Website/Discord Link, Version, Description, Download Link/Compile Yourself/Pay, and if its Ratted**.
 * **Note:** I'm not responsible if these are ratted. I usually check the issues to see if someone spotted a token grabber or something.
 * If you spot something wrong make an issue.
+* Most of these descriptions are from the clients itself. I have not tested all of these clients to give a proper review.
 * I'll try have the popular clients on top. Since most of them are bad.
 
 Template:
