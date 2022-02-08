@@ -5,6 +5,7 @@ Minecraft Hack Clients
 ***A collection of Minecraft Hack Clients. Some open source some not. Some good but mostly bad.***
 
 </div>
+
 ### News
 Table inspired by this [repo](https://github.com/UtilityMods/Index).
 
