@@ -10,7 +10,7 @@ Minecraft Hack Clients
 Table inspired by this [repo](https://github.com/UtilityMods/Index).
 
 ## Some Info
-* If you have a suggestion make an issue and tell me the **Name, Github/Website/Discord Link, Version, Description, Download Link/Compile Yourself/Pay, and if its Ratted**.
+* If you have a suggestion make an issue and tell me the **Name, Github/Website/Discord Link, Version, Description, Download Link/Compile Yourself/Pay**.
 * **Note:** I'm not responsible if these are ratted. I usually check the issues to see if someone spotted a token grabber or something.
 * If you spot something wrong make an issue.
 * I'll try have the popular clients on top. Since most of them are bad.
