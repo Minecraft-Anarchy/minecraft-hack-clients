@@ -7,7 +7,7 @@ Minecraft Hack Clients
 </div>
 
 ### News
-I'm open to adding clients from servers (even if its paid). Make a new issue or pull request following the Template.
+I'm open to adding clients from discord servers (even if its paid). Make a new issue or pull request following the Template.
 
 ## Some Info
 * If you have a suggestion make an issue and tell me the **Name, Github/Website/Discord Link, Version, Description, Download Link/Compile Yourself/Pay**.
