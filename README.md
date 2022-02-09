@@ -28,7 +28,8 @@ Template:
 | Future | **Version** | [Website](https://www.futureclient.net) | [Pay]()|
 | Impact | **Mulitple Versions** | [Website](https://impactclient.net) | [Download](https://impactclient.net/#download) |
 | KAMI Blue | **1.12.2** | [Website](https://kamiblue.org)<br>[Github](https://github.com/kami-blue/client) | [Download](https://kamiblue.org/download) |
-| Salhack | **1.12.2** | [Github](https://github.com/ionar2/spidermod) | [Download](https://github.com/ionar2/spidermod/releases/tag/2.05) |
+| Salhack | **1.12.2** | [Github](https://github.com/ionar2/spidermod) | [Download](https://github.com/ionar2/spidermod/releases/tag/2.05) |,
+| Wurst+3 | **1.12.2** | [Github](https://github.com/WurstPlus/wurst-plus-three)<br>[Discord](https://discord.com/invite/hvnZePKQHx) | [Download](https://github.com/WurstPlus/wurst-plus-three/releases) |
 | Wurst | **Multiple Versions** | [Website](https://www.wurstclient.net)<br>[Github](https://github.com/Wurst-Imperium/Wurst7) | [Download](https://www.wurstclient.net/download/) |
 | RusherHack | **1.12.2** | [Website](https://rusherhack.org) | [Pay](https://shop.rusherhack.org/45975011479/checkouts/b09bce420927380dc7d7cc1ba272fa85?channel=buy_button) |
 | Inertia | **Multiple Versions** | [Website](https://inertiaclient.com) | [Download](https://inertiaclient.com/Download.php) |
@@ -53,6 +54,11 @@ Template:
 | AquaticClient | **1.8.8** | [Github](https://github.com/WomasL/AquaticClient) | Compile Yourself |
 | Hache | **1.12.2** | [Github](https://github.com/halalfishcoding/Hache) | Compile Yourself |
 | Ananta | **1.12.2** | [Github](https://github.com/RitomG69/Ananta) | [Download](https://github.com/RitomG69/Ananta/releases) |
+| Lambda | **1.12.2** | [Github](https://github.com/lambda-client/lambda)<br>[Discord](https://discord.gg/QjfBxJzE5x) | [Download](https://github.com/lambda-client/lambda/releases) |
+| Postman | **1.12.2** | [Website](https://techale.github.io/postman-website/)[Github](https://github.com/srgantmoomoo/postman)<br>[Discord](Link) | [Download](https://github.com/srgantmoomoo/postman/releases) |
+| BigRat | **1.16.5** | [Github](https://github.com/ZimnyCat/BigRat)<br>[Discord](Link) | [Download](https://github.com/ZimnyCat/BigRat/releases) |
+| Spidersense | **1.12.2** | [Github](https://github.com/HausemasterIssue/spidersense) | [Download](https://github.com/HausemasterIssue/spidersense/releases) |
+| BaseClient | **1.8.8** | [Github](https://github.com/OxideWaveLength/Minecraft-Hack-BaseClient)<br>[Discord](https://discord.gg/pDweRGz) | Compile Yourself |
 | Infinity | **1.17/1.17.1** | [Github](https://github.com/SprayDown/Infinity)<br>[Discord](https://discord.gg/JT9eAsVVH4) | [Download](https://github.com/SprayDown/Infinity/releases) |
 | Steak-Hax | **1.8** | [Github](https://github.com/TDC0471/Steak-Hax) | [Download](https://github.com/TDC0471/Steak-Hax/releases) |
 | Mercury | **1.12.2** | [Website](https://minecraft-clients.github.io/)<br>[Github](https://github.com/minecraft-clients/Mercury-Client-BUILDABLE_SRC) | Compile Yourself |
