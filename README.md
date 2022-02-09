@@ -7,7 +7,7 @@ Minecraft Hack Clients
 </div>
 
 ### News
-Table inspired by this [repo](https://github.com/UtilityMods/Index).
+I'm open to adding clients from servers (even if its paid). Make a new issue or pull request following the Template.
 
 ## Some Info
 * If you have a suggestion make an issue and tell me the **Name, Github/Website/Discord Link, Version, Description, Download Link/Compile Yourself/Pay**.
@@ -17,7 +17,7 @@ Table inspired by this [repo](https://github.com/UtilityMods/Index).
 
 Template:
 
-`* [Name](Github/Website/Discord Link) (Version) - Description. [Download/Compile Yourself/Pay](Link) (RAT or NOT)`
+`| Name | **Version** | [Website](Link)<br>[Github](Link)<br>[Discord](Link) | [Download](Link)/[Pay](Link)/Compile Yourself |`
 
 -------
 
