@@ -27,7 +27,7 @@ Template:
 | :------: | :-------: | :----: | :----------: |
 | Future | **Version** | [Website](https://www.futureclient.net) | [Pay]()|
 | Impact | **Mulitple Version** | [Website](https://impactclient.net) | [Download](https://impactclient.net/#download) |
-| KAMI Blue | **1.12.2** | [Website](https://kamiblue.org) | [Download](https://kamiblue.org/download) |
+| KAMI Blue | **1.12.2** | [Website](https://kamiblue.org)<br>[Github](https://github.com/kami-blue/client) | [Download](https://kamiblue.org/download) |
 | Salhack | **1.12.2** | [Website](https://github.com/ionar2/spidermod) | [Download](https://github.com/ionar2/spidermod/releases/tag/2.05) |
 | Wurst | **Multiple Versions** | [Website](https://www.wurstclient.net) | [Download](https://www.wurstclient.net/download/) |
 | RusherHack | **1.12.2** | [Website](https://rusherhack.org) | [Pay](https://shop.rusherhack.org/45975011479/checkouts/b09bce420927380dc7d7cc1ba272fa85?channel=buy_button) |
