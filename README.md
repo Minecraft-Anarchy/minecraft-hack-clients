@@ -60,6 +60,10 @@ Template:
 | Spidersense | **1.12.2** | [Github](https://github.com/HausemasterIssue/spidersense) | [Download](https://github.com/HausemasterIssue/spidersense/releases) |
 | BaseClient | **1.8.8** | [Github](https://github.com/OxideWaveLength/Minecraft-Hack-BaseClient)<br>[Discord](https://discord.gg/pDweRGz) | Compile Yourself |
 | Infinity | **1.17/1.17.1** | [Github](https://github.com/SprayDown/Infinity)<br>[Discord](https://discord.gg/JT9eAsVVH4) | [Download](https://github.com/SprayDown/Infinity/releases) |
+| Tanuki | **1.18** | [Github](https://github.com/AntiCope/tanuki) | [Download](https://github.com/AntiCope/tanuki/releases) |
+| Equinox | **1.12.2** | [Github](https://github.com/TrashmanEatGarbage/Equinox) | Compile Yourself |
+| FrogHack | **1.12.2** | [Github](https://github.com/FrogDog56/FrogHack) | Compile Yourself |
+| DevilClient | **Version** | [Github](https://github.com/PrincessAkira/Azariel-Client)<br>[Twitter](twitter.com/azarieldev) | [Download](https://github.com/PrincessAkira/Azariel-Client/releases) |
 | Steak-Hax | **1.8** | [Github](https://github.com/TDC0471/Steak-Hax) | [Download](https://github.com/TDC0471/Steak-Hax/releases) |
 | Mercury | **1.12.2** | [Website](https://minecraft-clients.github.io/)<br>[Github](https://github.com/minecraft-clients/Mercury-Client-BUILDABLE_SRC) | Compile Yourself |
 | Yasashii-Client | **1.12.2** | [Github](https://github.com/TerrificTable/Yasashii-Rewrite) | [Download](https://github.com/TerrificTable/Yasashii-Rewrite/releases) |
