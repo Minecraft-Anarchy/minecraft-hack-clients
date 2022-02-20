@@ -36,6 +36,8 @@ Template:
 | Pyro | **1.12.2** | [Website](https://pyroclient.com) | [Pay](https://pyroclient.com/register) |
 | LiquidBounce | **Multiple Versions** | [Website](https://liquidbounce.net)<br>[Github](https://github.com/CCBlueX/LiquidBounce) | [Download](https://liquidbounce.net/download) |
 | Konas | **1.12.2** | [Github](https://github.com/trapaholics/konas) | Compile Yourself |
+| Meteor Client | **1.18.1** | [Github](https://github.com/MeteorDevelopment/meteor-client)<br>[Website](https://meteorclient.com/)<br>[Discord](https://meteorclient.com/discord)<br>[Addons](https://anticope.ml/pages/MeteorAddons.html) | [Download](https://meteorclient.com/) |
+| BleachHack | **1.17.1-1.18.1** | [Github](https://github.com/BleachDrinker420/BleachHack)<br>[Website](https://bleachhack.org/)<br>[Discord](https://bleachhack.org/discord) | [Download](https://bleachhack.org/downloads.html) |
 | Resilience | **1.6.1** | [Github](https://github.com/MinecraftModdedClients/Resilience-Client-Source) | Compile Yourself |
 | Xeno | **1.12.2** | [Github](https://github.com/XenoClientDevelopment/Xeno-Client)<br>[Discord](https://discord.gg/YPeVBdZMQA) | [Download](https://github.com/XenoClientDevelopment/Xeno-Client/releases/tag/1.2) |
 | Bedtrap | **1.18.1** | [Github](https://github.com/PlutoSolutions/bedtrap-rip) | [Download but check README](https://github.com/PlutoSolutions/bedtrap-rip) |
@@ -60,7 +62,6 @@ Template:
 | Spidersense | **1.12.2** | [Github](https://github.com/HausemasterIssue/spidersense) | [Download](https://github.com/HausemasterIssue/spidersense/releases) |
 | BaseClient | **1.8.8** | [Github](https://github.com/OxideWaveLength/Minecraft-Hack-BaseClient)<br>[Discord](https://discord.gg/pDweRGz) | Compile Yourself |
 | Infinity | **1.17/1.17.1** | [Github](https://github.com/SprayDown/Infinity)<br>[Discord](https://discord.gg/JT9eAsVVH4) | [Download](https://github.com/SprayDown/Infinity/releases) |
-| Tanuki | **1.18** | [Github](https://github.com/AntiCope/tanuki) | [Download](https://github.com/AntiCope/tanuki/releases) |
 | Equinox | **1.12.2** | [Github](https://github.com/TrashmanEatGarbage/Equinox) | Compile Yourself |
 | FrogHack | **1.12.2** | [Github](https://github.com/FrogDog56/FrogHack) | Compile Yourself |
 | DevilClient | **Version** | [Github](https://github.com/PrincessAkira/Azariel-Client)<br>[Twitter](twitter.com/azarieldev) | [Download](https://github.com/PrincessAkira/Azariel-Client/releases) |
