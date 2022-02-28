@@ -51,7 +51,7 @@ Template:
 | CXClient | **1.8.8** | [Github](https://github.com/pixelcmtd/CXClient) | [Download](https://github.com/pixelcmtd/CXClient/releases) |
 | Cosmos | **1.12.2** | [Github](https://github.com/momentumdevelopment/cosmos)<br>[Discord](https://discord.gg/JK2Zz2CDpM) | [Download](https://github.com/momentumdevelopment/cosmos/releases) |
 | Ferox | **1.12.2** | [Github](https://github.com/olliem5/ferox) | [Download](https://github.com/olliem5/ferox/releases) |
-| Onigiri | **Version** | [Github](https://github.com/Nodoka4318/OnigiriClient) | Compile Yourself |
+| Onigiri | **1.12.2** | [Github](https://github.com/Nodoka4318/OnigiriClient) | Compile Yourself |
 | gamesense-plus-2 | **1.12.2** | [Github](https://github.com/Droid-D3V/gamesense-plus-2) | Compile Yourself |
 | Cake-client | **1.8** | [Github](https://github.com/GandelXIV/Cake-client) | Compile Yourself |
 | AquaticClient | **1.8.8** | [Github](https://github.com/WomasL/AquaticClient) | Compile Yourself |
