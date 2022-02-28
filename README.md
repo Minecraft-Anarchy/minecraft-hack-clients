@@ -40,7 +40,7 @@ Template:
 | BleachHack | **1.17.1-1.18.1** | [Github](https://github.com/BleachDrinker420/BleachHack)<br>[Website](https://bleachhack.org/)<br>[Discord](https://bleachhack.org/discord) | [Download](https://bleachhack.org/downloads.html) |
 | Resilience | **1.6.1** | [Github](https://github.com/MinecraftModdedClients/Resilience-Client-Source) | Compile Yourself |
 | Xeno | **1.12.2** | [Github](https://github.com/XenoClientDevelopment/Xeno-Client)<br>[Discord](https://discord.gg/YPeVBdZMQA) | [Download](https://github.com/XenoClientDevelopment/Xeno-Client/releases/tag/1.2) |
-| Bedtrap | **1.18.1** | [Github](https://github.com/PlutoSolutions/bedtrap-rip) | [Download but check README](https://github.com/PlutoSolutions/bedtrap-rip) |
+| Bedtrap | **1.18.1** | [Github](https://github.com/PlutoSolutions/bedtrap-rip) | [Download<br>(Check README)](https://github.com/PlutoSolutions/bedtrap-rip) |
 | Seppuku | **1.12.2** | [Website](https://seppuku.pw) | [Download](https://github.com/seppukudevelopment/seppuku/releases) |
 | MatHax | **1.17.1-1.18.1** | [Website](https://mathaxclient.xyz)<br>[Discord](https://mathaxclient.xyz/Discord) | [Download](https://mathaxclient.xyz/Download) |
 | JexClient | **Multiple Versions** | [Github](https://github.com/DustinRepo/JexClient)<br>[Discord](https://discord.gg/BUcUGu6gfA) | [Download](https://github.com/DustinRepo/JexClient/releases/tag/0.6.0) |
