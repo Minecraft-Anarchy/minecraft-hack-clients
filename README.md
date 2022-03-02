@@ -21,7 +21,7 @@ Template:
 
 -------
 
-# Java
+# Java Clients
 
 | Name | Version | Links | Download |
 | :------: | :-------: | :----: | :----------: |
@@ -69,3 +69,6 @@ Template:
 | Steak-Hax | **1.8** | [Github](https://github.com/TDC0471/Steak-Hax) | [Download](https://github.com/TDC0471/Steak-Hax/releases) |
 | Mercury | **1.12.2** | [Website](https://minecraft-clients.github.io/)<br>[Github](https://github.com/minecraft-clients/Mercury-Client-BUILDABLE_SRC) | Compile Yourself |
 | Yasashii-Client | **1.12.2** | [Github](https://github.com/TerrificTable/Yasashii-Rewrite) | [Download](https://github.com/TerrificTable/Yasashii-Rewrite/releases) |
+
+# Related
+* [Master7720's Minecraft Client Collection](https://github.com/master7720/minecraft-client-collections)
