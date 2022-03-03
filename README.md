@@ -62,6 +62,7 @@ Template:
 | BigRat | **1.16.5** | [Github](https://github.com/ZimnyCat/BigRat)<br>[Discord](Link) | [Download](https://github.com/ZimnyCat/BigRat/releases) |
 | Spidersense | **1.12.2** | [Github](https://github.com/HausemasterIssue/spidersense) | [Download](https://github.com/HausemasterIssue/spidersense/releases) |
 | BaseClient | **1.8.8** | [Github](https://github.com/OxideWaveLength/Minecraft-Hack-BaseClient)<br>[Discord](https://discord.gg/pDweRGz) | Compile Yourself |
+| CookieClient | **1.12.2** | [Github](https://github.com/bebeli555/CookieClient)<br>[Discord](https://discord.gg/xSukBcyd8m) | [Download](https://github.com/bebeli555/CookieClient/releases) |
 | Infinity | **1.17/1.17.1** | [Github](https://github.com/SprayDown/Infinity)<br>[Discord](https://discord.gg/JT9eAsVVH4) | [Download](https://github.com/SprayDown/Infinity/releases) |
 | Equinox | **1.12.2** | [Github](https://github.com/TrashmanEatGarbage/Equinox) | Compile Yourself |
 | FrogHack | **1.12.2** | [Github](https://github.com/FrogDog56/FrogHack) | Compile Yourself |
