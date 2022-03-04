@@ -59,6 +59,7 @@ Template:
 | Ananta | **1.12.2** | [Github](https://github.com/RitomG69/Ananta) | [Download](https://github.com/RitomG69/Ananta/releases) |
 | Lambda | **1.12.2** | [Github](https://github.com/lambda-client/lambda)<br>[Discord](https://discord.gg/QjfBxJzE5x) | [Download](https://github.com/lambda-client/lambda/releases) |
 | Postman | **1.12.2** | [Website](https://techale.github.io/postman-website/)[Github](https://github.com/srgantmoomoo/postman)<br>[Discord](Link) | [Download](https://github.com/srgantmoomoo/postman/releases) |
+| PepsiMod | **1.12.2** | [Website](https://www.pepsi.team/)<br>[Github](https://github.com/Team-Pepsi/pepsimod) | [Download](https://github.com/Team-Pepsi/pepsimod/releases) |
 | BigRat | **1.16.5** | [Github](https://github.com/ZimnyCat/BigRat)<br>[Discord](Link) | [Download](https://github.com/ZimnyCat/BigRat/releases) |
 | Spidersense | **1.12.2** | [Github](https://github.com/HausemasterIssue/spidersense) | [Download](https://github.com/HausemasterIssue/spidersense/releases) |
 | BaseClient | **1.8.8** | [Github](https://github.com/OxideWaveLength/Minecraft-Hack-BaseClient)<br>[Discord](https://discord.gg/pDweRGz) | Compile Yourself |
