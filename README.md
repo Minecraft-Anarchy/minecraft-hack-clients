@@ -2,7 +2,7 @@
 
 Minecraft Hack Clients
 ===
-***A collection of Minecraft Hack Clients. Some open source some not. Some good but mostly bad.***
+***A collection of Minecraft Hack/Utility Clients. Some open source some not. Some good but mostly bad.***
 
 </div>
 
