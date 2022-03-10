@@ -44,6 +44,7 @@ Template:
 | Seppuku | **1.12.2** | [Website](https://seppuku.pw) | [Download](https://github.com/seppukudevelopment/seppuku/releases) |
 | MatHax | **1.17.1-1.18.1** | [Website](https://mathaxclient.xyz)<br>[Discord](https://mathaxclient.xyz/Discord) | [Download](https://mathaxclient.xyz/Download) |
 | JexClient | **Multiple Versions** | [Github](https://github.com/DustinRepo/JexClient)<br>[Discord](https://discord.gg/BUcUGu6gfA) | [Download](https://github.com/DustinRepo/JexClient/releases/tag/0.6.0) |
+| Haze | **1.18.2** | [Github](https://github.com/HazeClient/Haze)<br>[Discord](https://discord.gg/c3VxXhcmgv) | Compile Yourself |
 | FrostBurn | **1.17.1** | [Github](https://github.com/evaan/FrostBurn)<br>[Discord](https://discord.gg/XkpYgpfHtc) | [Download](https://github.com/evaan/FrostBurn/releases) |
 | Ares | **Multiple Versions** | [Website](https://aresclient.org)<br>[Github](https://github.com/AresClient/ares)<br>[Discord](https://discord.gg/GtBgknj) | [Download](https://aresclient.org/download) |
 | bhack | **1.18.1** | [Github](https://github.com/453452hw/bhack) | [Download](https://github.com/453452hw/bhack/releases) |
