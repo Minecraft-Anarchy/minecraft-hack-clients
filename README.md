@@ -17,7 +17,7 @@ I'm open to adding clients from discord servers (even if its paid). Make a new i
 
 Template:
 
-```| Name | **Version** | [Website](Link)<br>[Github](Link)<br>[Discord](Link) | [Download](Link)/[Pay](Link)/Compile Yourself |```
+```| Name | **Version** | [Website](Link)<br>[Github](Link)<br>[Discord](Link) | [Download](Link)/[Pay](Link)/Compile Yourself | `GUI Keybind` |```
 
 -------
 
