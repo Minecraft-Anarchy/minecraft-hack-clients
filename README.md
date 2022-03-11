@@ -23,8 +23,8 @@ Template:
 
 # Java Clients
 
-| Name | Version | Links | Download |
-| :------: | :-------: | :----: | :----------: |
+| Name | Version | Links | Download | GUI |
+| :--: | :-----: | :---: | :------: | :-: |
 | Future | **Version** | [Website](https://www.futureclient.net) | [Pay]()|
 | Impact | **Mulitple Versions** | [Website](https://impactclient.net) | [Download](https://impactclient.net/#download) |
 | KAMI Blue | **1.12.2** | [Website](https://kamiblue.org)<br>[Github](https://github.com/kami-blue/client) | [Download](https://kamiblue.org/download) |
