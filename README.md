@@ -62,6 +62,8 @@ Template:
 | Postman | **1.12.2** | [Website](https://techale.github.io/postman-website/)[Github](https://github.com/srgantmoomoo/postman)<br>[Discord](Link) | [Download](https://github.com/srgantmoomoo/postman/releases) |
 | PepsiMod | **1.12.2** | [Website](https://www.pepsi.team/)<br>[Github](https://github.com/Team-Pepsi/pepsimod) | [Download](https://github.com/Team-Pepsi/pepsimod/releases) |
 | BigRat | **1.16.5** | [Github](https://github.com/ZimnyCat/BigRat)<br>[Discord](Link) | [Download](https://github.com/ZimnyCat/BigRat/releases) |
+| TrollHack | **1.12.2** | [Github](https://github.com/Luna5ama/TrollHack) | [Download](https://github.com/Luna5ama/TrollHack/releases) |
+| Tensor | **1.17.1** | [Github](https://github.com/IUDevman/Tensor) | [Download](https://github.com/IUDevman/Tensor/releases) |
 | Spidersense | **1.12.2** | [Github](https://github.com/HausemasterIssue/spidersense) | [Download](https://github.com/HausemasterIssue/spidersense/releases) |
 | BaseClient | **1.8.8** | [Github](https://github.com/OxideWaveLength/Minecraft-Hack-BaseClient)<br>[Discord](https://discord.gg/pDweRGz) | Compile Yourself |
 | CookieClient | **1.12.2** | [Github](https://github.com/bebeli555/CookieClient)<br>[Discord](https://discord.gg/xSukBcyd8m) | [Download](https://github.com/bebeli555/CookieClient/releases) |
