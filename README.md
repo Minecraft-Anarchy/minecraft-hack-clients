@@ -35,7 +35,7 @@ Template:
 | Inertia | **Multiple Versions** | [Website](https://inertiaclient.com) | [Download](https://inertiaclient.com/Download.php) | `` |
 | Pyro | **1.12.2** | [Website](https://pyroclient.com) | [Pay](https://pyroclient.com/register) | `` |
 | LiquidBounce | **Multiple Versions** | [Website](https://liquidbounce.net)<br>[Github](https://github.com/CCBlueX/LiquidBounce) | [Download](https://liquidbounce.net/download) | `` |
-| Konas | **1.12.2** | [Github](https://github.com/PassiveDev/konas) | Compile Yourself | `` |
+| Konas | **1.12.2** | [Github](https://github.com/PassiveDev/konas) | [Pay](https://konasclient.com/buy.html) | `` |
 | Meteor Client | **1.18.1** | [Github](https://github.com/MeteorDevelopment/meteor-client)<br>[Website](https://meteorclient.com/)<br>[Discord](https://meteorclient.com/discord)<br>[Addons](https://anticope.ml/pages/MeteorAddons.html) | [Download](https://meteorclient.com/) | `` |
 | BleachHack | **1.17.1-1.18.1** | [Github](https://github.com/BleachDrinker420/BleachHack)<br>[Website](https://bleachhack.org/)<br>[Discord](https://bleachhack.org/discord) | [Download](https://bleachhack.org/downloads.html) | `` |
 | Resilience | **1.6.1** | [Github](https://github.com/MinecraftModdedClients/Resilience-Client-Source) | Compile Yourself | `` |
