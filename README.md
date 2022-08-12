@@ -7,10 +7,10 @@ Minecraft Hack Clients
 </div>
 
 ### News
-I'm open to adding clients from discord servers (even if its paid). Make a new issue or pull request following the Template.
+New project: https://github.com/Minecraft-Anarchy/anarchy-servers
 
 ## Some Info
-* If you have a suggestion make an issue or pull request following the template.
+* If you have a suggestion make an issue (WITH THE TEMPLATE).
 * **DISCLAIMER:** I'm not responsible if these are ratted or have a virus. Download these at your own risk.
 * If you spot something wrong make an issue.
 * I'll try have the popular clients on top. Since most of them are bad. (I plan on making these alphabetical)
