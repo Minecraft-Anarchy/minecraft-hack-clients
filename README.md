@@ -2,7 +2,7 @@
 
 Minecraft Hack Clients
 ===
-***A collection of Minecraft Hack/Utility Clients. Some open source some not. Some good but mostly bad.***
+***A collection of Minecraft Hack/Utility Clients.***
 
 </div>
 
@@ -17,7 +17,7 @@ I'm open to adding clients from discord servers (even if its paid). Make a new i
 
 Template:
 
-```| Name | **Version** | [Website](Link)<br>[Github](Link)<br>[Discord](Link) | [Download](Link)/[Pay](Link)/Compile Yourself | `GUI Keybind` |```
+```| Name | **Version** | [Website](Link)<br>[Github](Link)<br>[Discord](Link) | [Download](Link)/[Pay](Link)/Compile Yourself | `Click GUI` |```
 
 -------
 
@@ -39,7 +39,7 @@ Template:
 | Meteor Client | **1.18.1** | [Github](https://github.com/MeteorDevelopment/meteor-client)<br>[Website](https://meteorclient.com/)<br>[Discord](https://meteorclient.com/discord)<br>[Addons](https://anticope.ml/pages/MeteorAddons.html) | [Download](https://meteorclient.com/) | `` |
 | BleachHack | **1.17.1-1.18.1** | [Github](https://github.com/BleachDrinker420/BleachHack)<br>[Website](https://bleachhack.org/)<br>[Discord](https://bleachhack.org/discord) | [Download](https://bleachhack.org/downloads.html) | `` |
 | Resilience | **1.6.1** | [Github](https://github.com/MinecraftModdedClients/Resilience-Client-Source) | Compile Yourself | `` |
-| Xeno | **1.12.2** | [Github](https://github.com/XenoClientDevelopment/Xeno-Client)<br>[Discord](https://discord.gg/YPeVBdZMQA) | [Download](https://github.com/XenoClientDevelopment/Xeno-Client/releases/tag/1.2) | `` |
+| Paragon | **1.12.2** | [Github](https://github.com/Wolfsurge/Paragon)<br>[Discord](https://discord.com/invite/28JNQsXUzb) | [Download](https://github.com/Wolfsurge/Paragon/releases) | `RSHIFT` |
 | Bedtrap | **1.18.1** | [Github](https://github.com/PlutoSolutions/bedtrap-rip) | [Download<br>(Check README)](https://github.com/PlutoSolutions/bedtrap-rip) | `` |
 | Seppuku | **1.12.2** | [Website](https://seppuku.pw) | [Download](https://github.com/seppukudevelopment/seppuku/releases) | `` |
 | MatHax | **1.17.1-1.18.1** | [Website](https://mathaxclient.xyz)<br>[Discord](https://mathaxclient.xyz/Discord) | [Download](https://mathaxclient.xyz/Download) | `` |
