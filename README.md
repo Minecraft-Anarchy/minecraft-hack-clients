@@ -28,6 +28,7 @@ Template:
 | Ananta | **1.12.2** | [Github](https://github.com/RitomG69/Ananta) | [Download](https://github.com/RitomG69/Ananta/releases) | `` |
 | AquaticClient | **1.8.8** | [Github](https://github.com/WomasL/AquaticClient) | Compile Yourself | `` |
 | Ares | **Multiple Versions** | [Website](https://aresclient.org)<br>[Github](https://github.com/AresClient/ares)<br>[Discord](https://discord.gg/GtBgknj) | [Download](https://aresclient.org/download) | `` |
+| Aristois | **Multiple Versions** | [Website](https://aristois.net/) | [Download](https://aristois.net/download) | `RSHIFT` |
 | BaseClient | **1.8.8** | [Github](https://github.com/OxideWaveLength/Minecraft-Hack-BaseClient)<br>[Discord](https://discord.gg/pDweRGz) | Compile Yourself | `` |
 | Bedtrap | **1.18.1** | [Github](https://github.com/PlutoSolutions/bedtrap-rip) | [Download<br>(Check README)](https://github.com/PlutoSolutions/bedtrap-rip) | `` |
 | bhack | **1.18.1** | [Github](https://github.com/453452hw/bhack) | [Download](https://github.com/453452hw/bhack/releases) | `` |
