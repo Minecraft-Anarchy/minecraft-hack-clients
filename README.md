@@ -27,39 +27,39 @@ Template:
 | :--: | :-----: | :---: | :------: | :-: |
 | Ananta | **1.12.2** | [Github](https://github.com/RitomG69/Ananta) | [Download](https://github.com/RitomG69/Ananta/releases) | `` |
 | AquaticClient | **1.8.8** | [Github](https://github.com/WomasL/AquaticClient) | Compile Yourself | `` |
-| Ares | **Multiple Versions** | [Website](https://aresclient.org)<br>[Github](https://github.com/AresClient/ares)<br>[Discord](https://discord.gg/GtBgknj) | [Download](https://aresclient.org/download) | `` |
+| Ares | **Multiple Versions** | [Website](https://aresclient.org)<br>[Github](https://github.com/AresClient/ares)<br>[Discord](https://discord.gg/GtBgknj) | [Download](https://aresclient.org/download) | `;` |
 | Aristois | **Multiple Versions** | [Website](https://aristois.net/) | [Download](https://aristois.net/download) | `RSHIFT` |
 | BaseClient | **1.8.8** | [Github](https://github.com/OxideWaveLength/Minecraft-Hack-BaseClient)<br>[Discord](https://discord.gg/pDweRGz) | Compile Yourself | `` |
-| Bedtrap | **1.18.1** | [Github](https://github.com/PlutoSolutions/bedtrap-rip) | [Download<br>(Check README)](https://github.com/PlutoSolutions/bedtrap-rip) | `` |
+| Bedtrap | **1.18.1** | [Github](https://github.com/PlutoSolutions/bedtrap-rip) | [Download<br>(Check README)](https://github.com/PlutoSolutions/bedtrap-rip) | `RSHIFT` |
 | bhack | **1.18.1** | [Github](https://github.com/453452hw/bhack) | [Download](https://github.com/453452hw/bhack/releases) | `` |
 | BigRat | **1.16.5** | [Github](https://github.com/ZimnyCat/BigRat)<br>[Discord](Link) | [Download](https://github.com/ZimnyCat/BigRat/releases) | `` |
 | BleachHack | **1.17.1-1.18.1** | [Github](https://github.com/BleachDrinker420/BleachHack)<br>[Website](https://bleachhack.org/)<br>[Discord](https://bleachhack.org/discord) | [Download](https://bleachhack.org/downloads.html) | `` |
-| Cake-client | **1.8** | [Github](https://github.com/GandelXIV/Cake-client) | Compile Yourself | `` |
-| CookieClient | **1.12.2** | [Github](https://github.com/bebeli555/CookieClient)<br>[Discord](https://discord.gg/xSukBcyd8m) | [Download](https://github.com/bebeli555/CookieClient/releases) | `` |
-| Cosmos | **1.12.2** | [Github](https://github.com/momentumdevelopment/cosmos)<br>[Discord](https://discord.gg/JK2Zz2CDpM) | [Download](https://github.com/momentumdevelopment/cosmos/releases) | `` |
+| Cake-client | **1.8** | [Github](https://github.com/GandelXIV/Cake-client) | Compile Yourself | `H` |
+| CookieClient | **1.12.2** | [Github](https://github.com/bebeli555/CookieClient)<br>[Discord](https://discord.gg/xSukBcyd8m) | [Download](https://github.com/bebeli555/CookieClient/releases) | `NONE` |
+| Cosmos | **1.12.2** | [Github](https://github.com/momentumdevelopment/cosmos)<br>[Discord](https://discord.gg/JK2Zz2CDpM) | [Download](https://github.com/momentumdevelopment/cosmos/releases) | `RSHIFT` |
 | CXClient | **1.8.8** | [Github](https://github.com/pixelcmtd/CXClient) | [Download](https://github.com/pixelcmtd/CXClient/releases) | `` |
 | Delta | **1.12.2** | [Github](https://github.com/noatmc/delta)<br>[Discord](https://discord.gg/yr5PrKkWMH) | Compile Yourself | `` |
 | DevilClient | **Version** | [Github](https://github.com/PrincessAkira/Azariel-Client)<br>[Twitter](twitter.com/azarieldev) | [Download](https://github.com/PrincessAkira/Azariel-Client/releases) | `` |
 | Equinox | **1.12.2** | [Github](https://github.com/TrashmanEatGarbage/Equinox) | Compile Yourself | `` |
-| Ferox | **1.12.2** | [Github](https://github.com/olliem5/ferox) | [Download](https://github.com/olliem5/ferox/releases) | `` |
+| Ferox | **1.12.2** | [Github](https://github.com/olliem5/ferox) | [Download](https://github.com/olliem5/ferox/releases) | `P` |
 | FrogHack | **1.12.2** | [Github](https://github.com/FrogDog56/FrogHack) | Compile Yourself | `` |
 | FrostBurn | **1.17.1** | [Github](https://github.com/evaan/FrostBurn)<br>[Discord](https://discord.gg/XkpYgpfHtc) | [Download](https://github.com/evaan/FrostBurn/releases) | `` |
-| Future | **Version** | [Website](https://www.futureclient.net) | [Pay]()| `` |
+| Future | **Version** | [Website](https://www.futureclient.net) | [Pay]()| `RSHIFT` |
 | gamesense-plus-2 | **1.12.2** | [Github](https://github.com/Droid-D3V/gamesense-plus-2) | Compile Yourself | `` |
 | Hache | **1.12.2** | [Github](https://github.com/halalfishcoding/Hache) | Compile Yourself | `` |
 | Haze | **1.18.2** | [Github](https://github.com/HazeClient/Haze)<br>[Discord](https://discord.gg/c3VxXhcmgv) | Compile Yourself | `` |
 | Impact | **Mulitple Versions** | [Website](https://impactclient.net) | [Download](https://impactclient.net/#download) | `` |
-| Inertia | **Multiple Versions** | [Website](https://inertiaclient.com) | [Download](https://inertiaclient.com/Download.php) | `` |
+| Inertia | **Multiple Versions** | [Website](https://inertiaclient.com) | [Download](https://inertiaclient.com/Download.php) | `RSHIFT` |
 | Infinity | **1.17/1.17.1** | [Github](https://github.com/SprayDown/Infinity)<br>[Discord](https://discord.gg/JT9eAsVVH4) | [Download](https://github.com/SprayDown/Infinity/releases) | `` |
 | JexClient | **Multiple Versions** | [Github](https://github.com/DustinRepo/JexClient)<br>[Discord](https://discord.gg/BUcUGu6gfA) | [Download](https://github.com/DustinRepo/JexClient/releases/tag/0.6.0) | `` |
 | KAMI | **1.16.5** | [Github](https://github.com/zeroeightysix/KAMI)<br>[Discord](http://discord.gg/9hvwgeg) | [Download](https://github.com/zeroeightysix/KAMI/releases) | `` |
 | KAMI Blue | **1.12.2** | [Website](https://kamiblue.org)<br>[Github](https://github.com/kami-blue/client) | [Download](https://kamiblue.org/download) | `` |
 | Konas | **1.12.2** | [Github](https://github.com/PassiveDev/konas) | [Pay](https://konasclient.com/buy.html) | `` |
-| Lambda | **1.12.2** | [Github](https://github.com/lambda-client/lambda)<br>[Discord](https://discord.gg/QjfBxJzE5x) | [Download](https://github.com/lambda-client/lambda/releases) | `` |
+| Lambda | **1.12.2** | [Github](https://github.com/lambda-client/lambda)<br>[Discord](https://discord.gg/QjfBxJzE5x) | [Download](https://github.com/lambda-client/lambda/releases) | `Y` |
 | LiquidBounce | **Multiple Versions** | [Website](https://liquidbounce.net)<br>[Github](https://github.com/CCBlueX/LiquidBounce) | [Download](https://liquidbounce.net/download) | `` |
 | MatHax | **1.17.1-1.18.1** | [Website](https://mathaxclient.xyz)<br>[Discord](https://mathaxclient.xyz/Discord) | [Download](https://mathaxclient.xyz/Download) | `` |
 | Mercury | **1.12.2** | [Website](https://minecraft-clients.github.io/)<br>[Github](https://github.com/minecraft-clients/Mercury-Client-BUILDABLE_SRC) | Compile Yourself | `` |
-| Meteor Client | **1.18.1** | [Github](https://github.com/MeteorDevelopment/meteor-client)<br>[Website](https://meteorclient.com/)<br>[Discord](https://meteorclient.com/discord)<br>[Addons](https://anticope.ml/pages/MeteorAddons.html) | [Download](https://meteorclient.com/) | `` |
+| Meteor Client | **1.18.1** | [Github](https://github.com/MeteorDevelopment/meteor-client)<br>[Website](https://meteorclient.com/)<br>[Discord](https://meteorclient.com/discord)<br>[Addons](https://anticope.ml/pages/MeteorAddons.html) | [Download](https://meteorclient.com/) | `RSHIFT` |
 | Onigiri | **1.12.2** | [Github](https://github.com/Nodoka4318/OnigiriClient) | Compile Yourself | `` |
 | Paragon | **1.12.2** | [Github](https://github.com/Wolfsurge/Paragon)<br>[Discord](https://discord.com/invite/28JNQsXUzb) | [Download](https://github.com/Wolfsurge/Paragon/releases) | `RSHIFT` |
 | PepsiMod | **1.12.2** | [Website](https://www.pepsi.team/)<br>[Github](https://github.com/Team-Pepsi/pepsimod) | [Download](https://github.com/Team-Pepsi/pepsimod/releases) | `` |
