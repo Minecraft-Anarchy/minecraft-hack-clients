@@ -55,11 +55,11 @@ Template:
 | KAMI | **1.16.5** | [Github](https://github.com/zeroeightysix/KAMI)<br>[Discord](http://discord.gg/9hvwgeg) | [Download](https://github.com/zeroeightysix/KAMI/releases) | `` |
 | KAMI Blue | **1.12.2** | [Website](https://kamiblue.org)<br>[Github](https://github.com/kami-blue/client) | [Download](https://kamiblue.org/download) | `` |
 | Konas | **1.12.2** | [Github](https://github.com/PassiveDev/konas) | [Pay](https://konasclient.com/buy.html) | `` |
-| Lambda | **1.12.2** | [Github](https://github.com/lambda-client/lambda)<br>[Discord](https://discord.gg/QjfBxJzE5x) | [Download](https://github.com/lambda-client/lambda/releases) | `` |
+| Lambda | **1.12.2** | [Github](https://github.com/lambda-client/lambda)<br>[Discord](https://discord.gg/QjfBxJzE5x) | [Download](https://github.com/lambda-client/lambda/releases) | `Y` |
 | LiquidBounce | **Multiple Versions** | [Website](https://liquidbounce.net)<br>[Github](https://github.com/CCBlueX/LiquidBounce) | [Download](https://liquidbounce.net/download) | `` |
 | MatHax | **1.17.1-1.18.1** | [Website](https://mathaxclient.xyz)<br>[Discord](https://mathaxclient.xyz/Discord) | [Download](https://mathaxclient.xyz/Download) | `` |
 | Mercury | **1.12.2** | [Website](https://minecraft-clients.github.io/)<br>[Github](https://github.com/minecraft-clients/Mercury-Client-BUILDABLE_SRC) | Compile Yourself | `` |
-| Meteor Client | **1.18.1** | [Github](https://github.com/MeteorDevelopment/meteor-client)<br>[Website](https://meteorclient.com/)<br>[Discord](https://meteorclient.com/discord)<br>[Addons](https://anticope.ml/pages/MeteorAddons.html) | [Download](https://meteorclient.com/) | `` |
+| Meteor Client | **1.18.1** | [Github](https://github.com/MeteorDevelopment/meteor-client)<br>[Website](https://meteorclient.com/)<br>[Discord](https://meteorclient.com/discord)<br>[Addons](https://anticope.ml/pages/MeteorAddons.html) | [Download](https://meteorclient.com/) | `RSHIFT` |
 | Onigiri | **1.12.2** | [Github](https://github.com/Nodoka4318/OnigiriClient) | Compile Yourself | `` |
 | Paragon | **1.12.2** | [Github](https://github.com/Wolfsurge/Paragon)<br>[Discord](https://discord.com/invite/28JNQsXUzb) | [Download](https://github.com/Wolfsurge/Paragon/releases) | `RSHIFT` |
 | PepsiMod | **1.12.2** | [Website](https://www.pepsi.team/)<br>[Github](https://github.com/Team-Pepsi/pepsimod) | [Download](https://github.com/Team-Pepsi/pepsimod/releases) | `` |
