@@ -85,4 +85,3 @@ Template:
 | Yasashii-Client | **1.12.2** | [Github](https://github.com/TerrificTable/Yasashii-Rewrite) | [Download](https://github.com/TerrificTable/Yasashii-Rewrite/releases) | `` |
 
 # Related
-* [Master7720's Minecraft Client Collection](https://github.com/master7720/minecraft-client-collections)
