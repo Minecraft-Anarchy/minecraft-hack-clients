@@ -35,19 +35,24 @@ Template:
 | BigRat | **1.16.5** | [Github](https://github.com/ZimnyCat/BigRat)<br>[Discord](Link) | [Download](https://github.com/ZimnyCat/BigRat/releases) | `` |
 | BleachHack | **1.17.1-1.18.1** | [Github](https://github.com/BleachDrinker420/BleachHack)<br>[Website](https://bleachhack.org/)<br>[Discord](https://bleachhack.org/discord) | [Download](https://bleachhack.org/downloads.html) | `` |
 | Cake-client | **1.8** | [Github](https://github.com/GandelXIV/Cake-client) | Compile Yourself | `H` |
+| Claudius | **1.12.2** | [Github](https://github.com/Crimply/Claudius)<br>[Discord](https://discord.gg/srVKeqdc4Z ) | [Download](https://github.com/Crimply/Claudius/releases) | `` |
 | CookieClient | **1.12.2** | [Github](https://github.com/bebeli555/CookieClient)<br>[Discord](https://discord.gg/xSukBcyd8m) | [Download](https://github.com/bebeli555/CookieClient/releases) | `NONE` |
 | Cosmos | **1.12.2** | [Github](https://github.com/momentumdevelopment/cosmos)<br>[Discord](https://discord.gg/JK2Zz2CDpM) | [Download](https://github.com/momentumdevelopment/cosmos/releases) | `RSHIFT` |
 | CXClient | **1.8.8** | [Github](https://github.com/pixelcmtd/CXClient) | [Download](https://github.com/pixelcmtd/CXClient/releases) | `` |
 | Delta | **1.12.2** | [Github](https://github.com/noatmc/delta)<br>[Discord](https://discord.gg/yr5PrKkWMH) | Compile Yourself | `` |
 | DevilClient | **Version** | [Github](https://github.com/PrincessAkira/Azariel-Client)<br>[Twitter](twitter.com/azarieldev) | [Download](https://github.com/PrincessAkira/Azariel-Client/releases) | `` |
 | Equinox | **1.12.2** | [Github](https://github.com/TrashmanEatGarbage/Equinox) | Compile Yourself | `` |
+| FamilyFunPack | **1.12.2** | [Github](https://github.com/anOtherAnalyse/FamilyFunPack) | [Download](https://github.com/anOtherAnalyse/FamilyFunPack/releases) | `/` |
 | Ferox | **1.12.2** | [Github](https://github.com/olliem5/ferox) | [Download](https://github.com/olliem5/ferox/releases) | `P` |
 | FrogHack | **1.12.2** | [Github](https://github.com/FrogDog56/FrogHack) | Compile Yourself | `` |
 | FrostBurn | **1.17.1** | [Github](https://github.com/evaan/FrostBurn)<br>[Discord](https://discord.gg/XkpYgpfHtc) | [Download](https://github.com/evaan/FrostBurn/releases) | `` |
+| ForgeHax | **13-** | [Github](https://github.com/fr1kin/ForgeHax)<br>[Chat](https://matrix.to/#/#forgehax:nerdsin.space) | [Download](https://github.com/fr1kin/ForgeHax/releases) | `` |
 | Future | **Version** | [Website](https://www.futureclient.net) | [Pay]()| `RSHIFT` |
 | gamesense-plus-2 | **1.12.2** | [Github](https://github.com/Droid-D3V/gamesense-plus-2) | Compile Yourself | `` |
 | Hache | **1.12.2** | [Github](https://github.com/halalfishcoding/Hache) | Compile Yourself | `` |
 | Haze | **1.18.2** | [Github](https://github.com/HazeClient/Haze)<br>[Discord](https://discord.gg/c3VxXhcmgv) | Compile Yourself | `` |
+| Hydrogen | **1.8.9** | [Github](https://github.com/zPeanut/Hydrogen)<br>[Discord](https://discord.gg/dmw5N5X9p6) | [Download](https://github.com/zPeanut/Hydrogen/releases) | `` |
+| Hypnotic | **1.19** | [Github](https://github.com/Hypnotic-Development/Hypnotic-Client)<br>[Discord](https://discord.gg/aZStDUnb29) | [Download](https://nightly.link/Hypnotic-Development/Hypnotic-Client/workflows/build/main/Artifacts.zip) | `` |
 | Impact | **Mulitple Versions** | [Website](https://impactclient.net) | [Download](https://impactclient.net/#download) | `` |
 | Inertia | **Multiple Versions** | [Website](https://inertiaclient.com) | [Download](https://inertiaclient.com/Download.php) | `RSHIFT` |
 | Infinity | **1.17/1.17.1** | [Github](https://github.com/SprayDown/Infinity)<br>[Discord](https://discord.gg/JT9eAsVVH4) | [Download](https://github.com/SprayDown/Infinity/releases) | `` |
@@ -61,6 +66,7 @@ Template:
 | Mercury | **1.12.2** | [Website](https://minecraft-clients.github.io/)<br>[Github](https://github.com/minecraft-clients/Mercury-Client-BUILDABLE_SRC) | Compile Yourself | `` |
 | Meteor Client | **1.18.1** | [Github](https://github.com/MeteorDevelopment/meteor-client)<br>[Website](https://meteorclient.com/)<br>[Discord](https://meteorclient.com/discord)<br>[Addons](https://anticope.ml/pages/MeteorAddons.html) | [Download](https://meteorclient.com/) | `RSHIFT` |
 | Onigiri | **1.12.2** | [Github](https://github.com/Nodoka4318/OnigiriClient) | Compile Yourself | `` |
+| Orion  | **Latest** | [Github](https://github.com/AntiCope/orion)<br>[Discord](https://discord.gg/9mrRPGKYU3) | [Download](https://github.com/AntiCope/orion/releases) | `` |
 | Paragon | **1.12.2** | [Github](https://github.com/Wolfsurge/Paragon)<br>[Discord](https://discord.com/invite/28JNQsXUzb) | [Download](https://github.com/Wolfsurge/Paragon/releases) | `RSHIFT` |
 | PepsiMod | **1.12.2** | [Website](https://www.pepsi.team/)<br>[Github](https://github.com/Team-Pepsi/pepsimod) | [Download](https://github.com/Team-Pepsi/pepsimod/releases) | `` |
 | Postman | **1.12.2** | [Website](https://techale.github.io/postman-website/)[Github](https://github.com/srgantmoomoo/postman)<br>[Discord](Link) | [Download](https://github.com/srgantmoomoo/postman/releases) | `` |
@@ -71,6 +77,7 @@ Template:
 | Seppuku | **1.12.2** | [Website](https://seppuku.pw) | [Download](https://github.com/seppukudevelopment/seppuku/releases) | `` |
 | Spidersense | **1.12.2** | [Github](https://github.com/HausemasterIssue/spidersense) | [Download](https://github.com/HausemasterIssue/spidersense/releases) | `` |
 | Steak-Hax | **1.8** | [Github](https://github.com/TDC0471/Steak-Hax) | [Download](https://github.com/TDC0471/Steak-Hax/releases) | `` |
+| Sushi | **1.12.2** | [Github](https://github.com/Toshimichi0915/sushi-client) | [Download](https://github.com/Toshimichi0915/sushi-client/releases) | `RSHIFT` |
 | Tensor | **1.17.1** | [Github](https://github.com/IUDevman/Tensor) | [Download](https://github.com/IUDevman/Tensor/releases) | `` |
 | TrollHack | **1.12.2** | [Github](https://github.com/Luna5ama/TrollHack) | [Download](https://github.com/Luna5ama/TrollHack/releases) | `` |
 | Wurst | **Multiple Versions** | [Website](https://www.wurstclient.net)<br>[Github](https://github.com/Wurst-Imperium/Wurst7) | [Download](https://www.wurstclient.net/download/) | `` |
