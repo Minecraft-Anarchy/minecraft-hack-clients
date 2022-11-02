@@ -62,6 +62,7 @@ Template:
 | Konas | **1.12.2** | [Github](https://github.com/PassiveDev/konas) | [Pay](https://konasclient.com/buy.html) | `` |
 | Lambda | **1.12.2** | [Github](https://github.com/lambda-client/lambda)<br>[Discord](https://discord.gg/QjfBxJzE5x) | [Download](https://github.com/lambda-client/lambda/releases) | `Y` |
 | LiquidBounce | **Multiple Versions** | [Website](https://liquidbounce.net)<br>[Github](https://github.com/CCBlueX/LiquidBounce) | [Download](https://liquidbounce.net/download) | `` |
+| LiquidBounce++ | **1.8.9** | [Website](https://lbplusplus.ga)<br>[Github](https://github.com/PlusPlusMC/LiquidBouncePlusPlus)<br>[Discord](https://discord.gg/EyqcPDEBd8) | [Download](https://lbplusplus.ga/) | `` |
 | MatHax | **1.17.1-1.18.1** | [Website](https://mathaxclient.xyz)<br>[Discord](https://mathaxclient.xyz/Discord) | [Download](https://mathaxclient.xyz/Download) | `` |
 | Mercury | **1.12.2** | [Website](https://minecraft-clients.github.io/)<br>[Github](https://github.com/minecraft-clients/Mercury-Client-BUILDABLE_SRC) | Compile Yourself | `` |
 | Meteor Client | **1.18.1** | [Github](https://github.com/MeteorDevelopment/meteor-client)<br>[Website](https://meteorclient.com/)<br>[Discord](https://meteorclient.com/discord)<br>[Addons](https://anticope.ml/pages/MeteorAddons.html) | [Download](https://meteorclient.com/) | `RSHIFT` |
@@ -71,6 +72,7 @@ Template:
 | PepsiMod | **1.12.2** | [Website](https://www.pepsi.team/)<br>[Github](https://github.com/Team-Pepsi/pepsimod) | [Download](https://github.com/Team-Pepsi/pepsimod/releases) | `` |
 | Postman | **1.12.2** | [Website](https://techale.github.io/postman-website/)[Github](https://github.com/srgantmoomoo/postman)<br>[Discord](Link) | [Download](https://github.com/srgantmoomoo/postman/releases) | `` |
 | Pyro | **1.12.2** | [Website](https://pyroclient.com) | [Pay](https://pyroclient.com/register) | `` |
+| Quantum++ | **1.12.2** | [Github](https://github.com/Zane2b2t/quantum-Continued-Plus)| [Download](https://github.com/Zane2b2t/quantum-Continued-Plus/releases) | `` |
 | Resilience | **1.6.1** | [Github](https://github.com/MinecraftModdedClients/Resilience-Client-Source) | Compile Yourself | `` |
 | RusherHack | **1.12.2** | [Website](https://rusherhack.org) | [Pay](https://shop.rusherhack.org/45975011479/checkouts/b09bce420927380dc7d7cc1ba272fa85?channel=buy_button) | `` |
 | Salhack | **1.12.2** | [Github](https://github.com/ionar2/spidermod) | [Download](https://github.com/ionar2/spidermod/releases/tag/2.05) | `` |
