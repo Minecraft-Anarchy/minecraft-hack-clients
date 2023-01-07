@@ -36,6 +36,7 @@ Template:
 | BleachHack | **1.17.1-1.18.1** | [Github](https://github.com/BleachDrinker420/BleachHack)<br>[Website](https://bleachhack.org/)<br>[Discord](https://bleachhack.org/discord) | [Download](https://bleachhack.org/downloads.html) | `` |
 | Cake-client | **1.8** | [Github](https://github.com/GandelXIV/Cake-client) | Compile Yourself | `H` |
 | Claudius | **1.12.2** | [Github](https://github.com/Crimply/Claudius)<br>[Discord](https://discord.gg/srVKeqdc4Z ) | [Download](https://github.com/Crimply/Claudius/releases) | `` |
+| Coffee | **1.19.3** | [Website](https://client.coffee)<br>[Github](https://github.com/Coffee-Client/Coffee)<br>[Discord](https://discord.gg/yCGB7jKuVg) | [Download](https://github.com/Coffee-Client/Coffee) | `RSHIFT` |
 | CookieClient | **1.12.2** | [Github](https://github.com/bebeli555/CookieClient)<br>[Discord](https://discord.gg/xSukBcyd8m) | [Download](https://github.com/bebeli555/CookieClient/releases) | `NONE` |
 | Cosmos | **1.12.2** | [Github](https://github.com/momentumdevelopment/cosmos)<br>[Discord](https://discord.gg/JK2Zz2CDpM) | [Download](https://github.com/momentumdevelopment/cosmos/releases) | `RSHIFT` |
 | CXClient | **1.8.8** | [Github](https://github.com/pixelcmtd/CXClient) | [Download](https://github.com/pixelcmtd/CXClient/releases) | `` |
