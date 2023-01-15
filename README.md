@@ -64,7 +64,6 @@ Template:
 | Lambda | **1.12.2** | [Github](https://github.com/lambda-client/lambda)<br>[Discord](https://discord.gg/QjfBxJzE5x) | [Download](https://github.com/lambda-client/lambda/releases) | `Y` |
 | LiquidBounce | **Multiple Versions** | [Website](https://liquidbounce.net)<br>[Github](https://github.com/CCBlueX/LiquidBounce) | [Download](https://liquidbounce.net/download) | `` |
 | LiquidBounce++ | **1.8.9** | [Website](https://lbplusplus.ga)<br>[Github](https://github.com/PlusPlusMC/LiquidBouncePlusPlus)<br>[Discord](https://discord.gg/EyqcPDEBd8) | [Download](https://lbplusplus.ga/) | `` |
-| MatHax | **1.17.1-1.18.1** | [Website](https://mathaxclient.xyz)<br>[Discord](https://mathaxclient.xyz/Discord) | [Download](https://mathaxclient.xyz/Download) | `` |
 | Mercury | **1.12.2** | [Website](https://minecraft-clients.github.io/)<br>[Github](https://github.com/minecraft-clients/Mercury-Client-BUILDABLE_SRC) | Compile Yourself | `` |
 | Meteor Client | **1.18.1** | [Github](https://github.com/MeteorDevelopment/meteor-client)<br>[Website](https://meteorclient.com/)<br>[Discord](https://meteorclient.com/discord)<br>[Addons](https://anticope.ml/pages/MeteorAddons.html) | [Download](https://meteorclient.com/) | `RSHIFT` |
 | Onigiri | **1.12.2** | [Github](https://github.com/Nodoka4318/OnigiriClient) | Compile Yourself | `` |
