@@ -65,7 +65,7 @@ Template:
 | LiquidBounce | **Multiple Versions** | [Website](https://liquidbounce.net)<br>[Github](https://github.com/CCBlueX/LiquidBounce) | [Download](https://liquidbounce.net/download) | `` |
 | LiquidBounce++ | **1.8.9** | [Website](https://lbplusplus.ga)<br>[Github](https://github.com/PlusPlusMC/LiquidBouncePlusPlus)<br>[Discord](https://discord.gg/EyqcPDEBd8) | [Download](https://lbplusplus.ga/) | `` |
 | Mercury | **1.12.2** | [Website](https://minecraft-clients.github.io/)<br>[Github](https://github.com/minecraft-clients/Mercury-Client-BUILDABLE_SRC) | Compile Yourself | `` |
-| Meteor Client | **1.18.1** | [Github](https://github.com/MeteorDevelopment/meteor-client)<br>[Website](https://meteorclient.com/)<br>[Discord](https://meteorclient.com/discord)<br>[Addons](https://anticope.ml/pages/MeteorAddons.html) | [Download](https://meteorclient.com/) | `RSHIFT` |
+| Meteor Client | **1.19.3** | [Github](https://github.com/MeteorDevelopment/meteor-client)<br>[Website](https://meteorclient.com/)<br>[Discord](https://meteorclient.com/discord)<br>[Addons](https://anticope.ml/pages/MeteorAddons.html) | [Download](https://meteorclient.com/) | `RSHIFT` |
 | Onigiri | **1.12.2** | [Github](https://github.com/Nodoka4318/OnigiriClient) | Compile Yourself | `` |
 | Orion  | **Latest** | [Github](https://github.com/AntiCope/orion)<br>[Discord](https://discord.gg/9mrRPGKYU3) | [Download](https://github.com/AntiCope/orion/releases) | `` |
 | Paragon | **1.12.2** | [Github](https://github.com/Wolfsurge/Paragon)<br>[Discord](https://discord.com/invite/28JNQsXUzb) | [Download](https://github.com/Wolfsurge/Paragon/releases) | `RSHIFT` |
@@ -85,5 +85,11 @@ Template:
 | Wurst | **Multiple Versions** | [Website](https://www.wurstclient.net)<br>[Github](https://github.com/Wurst-Imperium/Wurst7) | [Download](https://www.wurstclient.net/download/) | `` |
 | Wurst+3 | **1.12.2** | [Github](https://github.com/WurstPlus/wurst-plus-three)<br>[Discord](https://discord.com/invite/hvnZePKQHx) | [Download](https://github.com/WurstPlus/wurst-plus-three/releases) | `` |
 | Yasashii-Client | **1.12.2** | [Github](https://github.com/TerrificTable/Yasashii-Rewrite) | [Download](https://github.com/TerrificTable/Yasashii-Rewrite/releases) | `` |
+| Gamesenseplusplus | **1.12.2** | [Github](https://github.com/TechAle/gsplusplus)<br> | [Download](https://github.com/WurstPlus/wurst-plus-three/releases) | `O` |
 
-# Related
+# Notes
+ - [Gamesenseplusplus](https://github.com/TechAle/gsplusplus) is largely safe though it has some stories surrounding it, latest stable and **safe** release is [here](https://github.com/TechAle/gsplusplus/releases/tag/2.3.4).
+ - [Meteor Client](https://meteorclient.com) does not support old versions of itself and only keeps the latest version of Meteor Client up for security reasons with its large Javascript API that checks for servers, other words only **1.19.3** is available because its latest version of Minecraft.
+ - [TrollHack](https://github.com/Luna5ama/TrollHack) has majority of its releases not stable with the Forge 1.12.2, all releases after release [0.0.5](https://github.com/Luna5ama/TrollHack/releases/tag/Release-0.0.5).
+ - 
+
