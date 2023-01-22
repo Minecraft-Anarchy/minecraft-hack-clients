@@ -87,3 +87,4 @@ Template:
 | Yasashii-Client | **1.12.2** | [Github](https://github.com/TerrificTable/Yasashii-Rewrite) | [Download](https://github.com/TerrificTable/Yasashii-Rewrite/releases) | `` |
 
 # Related
+[KonasArchive](https://github.com/PrimeTDMomega/KonasArchive) - An archive of Konas Client resources and all public releases BY [Prime](https://github.com/WitheredKnights/)
