@@ -91,5 +91,6 @@ Template:
  - [Gamesenseplusplus](https://github.com/TechAle/gsplusplus) is largely safe though it has some stories surrounding it, latest stable and **safe** release is [here](https://github.com/TechAle/gsplusplus/releases/tag/2.3.4).
  - [Meteor Client](https://meteorclient.com) does not support old versions of itself and only keeps the latest version of Meteor Client up for security reasons with its large Javascript API that checks for servers, other words only **1.19.3** is available because its latest version of Minecraft.
  - [TrollHack](https://github.com/Luna5ama/TrollHack) has majority of its releases not stable with the Forge 1.12.2, all releases after release [0.0.5](https://github.com/Luna5ama/TrollHack/releases/tag/Release-0.0.5).
- - 
 
+# Related
+[KonasArchive](https://github.com/PrimeTDMomega/KonasArchive) - An archive of Konas Client resources and all public releases BY [Prime](https://github.com/WitheredKnights/)
