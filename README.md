@@ -8,7 +8,7 @@ Minecraft Hack Clients
 </div>
 
 ### News
-New project: https://github.com/Minecraft-Anarchy/anarchy-servers
+New Discord: https://discord.gg/BH76jvEsVS
 
 ## Some Info
 * If you have a suggestion make an issue (WITH THE TEMPLATE).
